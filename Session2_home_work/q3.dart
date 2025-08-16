@@ -3,10 +3,9 @@
 variable. Print the variable after each assignment.
  */
 void main(){
-var familyNumbers="6";
+var familyNumbers;
+ familyNumbers="6";
 print("Number of my family members is $familyNumbers");
- familyNumbers=6.toString();
+ familyNumbers=6;
 print("Number of my family members is $familyNumbers");
-
-
 }
