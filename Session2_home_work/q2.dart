@@ -9,5 +9,5 @@ bool isEgyption=true;
 
   print("My birth year is $myBirthYear.");
   print("I live in $myCity.");
-  print("Are you Egyptian?? $isEgyption.");
+  print("Are you Egyptian? $isEgyption.");
 }
