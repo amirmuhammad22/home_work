@@ -6,5 +6,5 @@ void main(){
 String myName="Amir";
 int myAge=33;
 print("my name is $myName");
-print("my name is $myAge");
+print("my age is $myAge");
 }
